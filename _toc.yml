@@ -10,6 +10,7 @@ parts:
     chapters:
     - file: resources/gh-flow
   - caption: Instructor Resources
+    chapters:
     - file: instructor/guide
     - file: instructor/learning
     # - file: path/to/part2/chapter2
