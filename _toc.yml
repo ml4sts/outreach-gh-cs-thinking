@@ -1,0 +1,17 @@
+format: jb-book
+root: index
+parts:
+  - caption: Lab
+    chapters:
+    - file: lab/prepare
+    - file: lab/agenda
+    - file: lab/keep-learning
+  - caption: Resources
+    chapters:
+    - file: resources/gh-flow
+  - caption: Instructor Resources
+    - file: instructor/guide
+    - file: instructor/learning
+    # - file: path/to/part2/chapter2
+    #   sections:
+    #   - file: path/to/part2/chapter2/section1
