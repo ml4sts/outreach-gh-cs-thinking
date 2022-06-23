@@ -1,0 +1,10 @@
+jupyter-book 
+matplotlib
+numpy
+pyppeteer
+pandas
+lxml
+seaborn
+xlrd
+sphinx_fontawesome
+sphinx_panels
