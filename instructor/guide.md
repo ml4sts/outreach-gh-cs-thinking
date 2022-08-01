@@ -1,6 +1,9 @@
 # Instructor Guide
 
+## Preparation
 
+
+## Activity
 1. Discussion and Goals *(10 min)*
 
     - how we think in CS
@@ -47,7 +50,15 @@
 
     - we can see who changed what when
     - why might this be good
-1. Review by adding more sections with issues and a PR *(remaining time if available)*
+1. Review by adding more pages with issues and a PR *(remaining time if available)*
+
+    ````
+    ```{toctree}
+    :maxdepth: 2
+    :hidden:
+    pagename
+    ```
+    ````
 1. Feedback *(5min)*
 
     - one thing you learned
